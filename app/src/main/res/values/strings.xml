@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">СМС и звонки</string>
+    <string name="enter_number">Введите номер</string>
+    <string name="calling">Позвонить</string>
+    <string name="sms">СМС</string>
+    <string name="sms_text">Текст СМС</string>
+    <string name="permission_no_call">Вы не разрешили вызов звонков</string>
+    <string name="permission_no_sms">Вы не разрешили отправку смс</string>
+    <string name="sms_sending">Сообщение отправлено</string>
+    <string name="no_app_to_call">Не найдено приложение для звонка</string>
+    <string name="no_number_for_call">Не указан номер для звонка</string>
+    <string name="no_text_or_number">Не указан текст или номер</string>
+</resources>
